@@ -44,7 +44,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9D5CRNQQLgk="
 							},
-							"name": "ApplyInfoDelete",
+							"name": "지원정보삭제",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -63,11 +63,11 @@
 												"$ref": "AAAAAAGH9D5CRNQSWJk="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 32.72998046875,
 											"top": 5,
-											"width": 92.78076171875,
+											"width": 79,
 											"height": 13,
-											"text": "ApplyInfoDelete"
+											"text": "지원정보삭제"
 										},
 										{
 											"_type": "LabelView",
@@ -76,7 +76,7 @@
 												"$ref": "AAAAAAGH9D5CRNQSWJk="
 											},
 											"font": "Arial;13;1",
-											"left": 5,
+											"left": 13,
 											"top": 5,
 											"width": 14.72998046875,
 											"height": 13,
@@ -84,6 +84,7 @@
 										}
 									],
 									"font": "Arial;13;0",
+									"left": 8,
 									"width": 705,
 									"height": 433,
 									"nameLabel": {
@@ -100,7 +101,7 @@
 										"$ref": "AAAAAAGH9D5CRNQRrA8="
 									},
 									"font": "Arial;13;0",
-									"left": 48,
+									"left": 40,
 									"top": 160,
 									"width": 65,
 									"height": 98,
@@ -138,7 +139,7 @@
 													"lineColor": "#ffffff",
 													"font": "Arial;13;0",
 													"left": -288,
-													"top": -336,
+													"top": -304,
 													"height": 13
 												},
 												{
@@ -150,7 +151,7 @@
 													"lineColor": "#ffffff",
 													"font": "Arial;13;1",
 													"left": 101,
-													"top": 159,
+													"top": 175,
 													"width": 18,
 													"height": 13
 												},
@@ -164,7 +165,7 @@
 													"lineColor": "#ffffff",
 													"font": "Arial;13;0",
 													"left": -288,
-													"top": -336,
+													"top": -304,
 													"width": 110.24609375,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -179,7 +180,7 @@
 													"lineColor": "#ffffff",
 													"font": "Arial;13;0",
 													"left": -288,
-													"top": -336,
+													"top": -304,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
@@ -187,7 +188,7 @@
 											"lineColor": "#ffffff",
 											"font": "Arial;13;0",
 											"left": 96,
-											"top": 152,
+											"top": 168,
 											"width": 28,
 											"height": 25,
 											"stereotypeLabel": {
@@ -208,7 +209,7 @@
 									"font": "Arial;13;0",
 									"showShadow": false,
 									"left": 96,
-									"top": 152,
+									"top": 168,
 									"width": 28,
 									"height": 89,
 									"nameCompartment": {
@@ -338,8 +339,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 154,
-											"top": 180,
+											"left": 153,
+											"top": 190,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -359,8 +360,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 155,
-											"top": 165,
+											"left": 153,
+											"top": 175,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -380,8 +381,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 151,
-											"top": 209,
+											"left": 153,
+											"top": 220,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -401,8 +402,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 151,
-											"top": 179,
+											"left": 149,
+											"top": 190,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 30,
@@ -422,8 +423,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 155,
-											"top": 166,
+											"left": 151,
+											"top": 177,
 											"height": 13,
 											"alpha": 0.7853981633974483,
 											"distance": 40,
@@ -443,8 +444,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 144,
-											"top": 206,
+											"left": 145,
+											"top": 218,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 25,
@@ -464,8 +465,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 158,
-											"top": 180,
+											"left": 156,
+											"top": 190,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 30,
@@ -484,8 +485,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 157,
-											"top": 166,
+											"left": 154,
+											"top": 177,
 											"height": 13,
 											"alpha": -0.7853981633974483,
 											"distance": 40,
@@ -504,8 +505,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 160,
-											"top": 208,
+											"left": 161,
+											"top": 217,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 25,
@@ -522,7 +523,7 @@
 										"$ref": "AAAAAAGH9OfldOp7MxI="
 									},
 									"lineStyle": 1,
-									"points": "124:198;183:204",
+									"points": "124:212;183:211",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGH9Ol8lerLVOQ="
@@ -573,8 +574,8 @@
 												"$ref": "AAAAAAGH9Ol8l+rVGLE="
 											},
 											"font": "Arial;13;0",
-											"left": 76.6728515625,
-											"top": 160.5,
+											"left": 74.1728515625,
+											"top": 169,
 											"width": 154.654296875,
 											"height": 13,
 											"alpha": -4.653633743875884,
@@ -592,8 +593,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 155,
-											"top": 153.5,
+											"left": 152.5,
+											"top": 162,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25
@@ -609,18 +610,17 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 155,
-											"top": 168.5,
+											"left": 152.5,
+											"top": 177,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 136,
-									"top": 184,
-									"width": 39,
-									"height": 3,
+									"left": 133,
+									"top": 194,
+									"width": 40,
 									"alpha": 1.5461093363514398,
 									"distance": 16.1245154965971,
 									"hostEdge": {
@@ -644,7 +644,7 @@
 										"$ref": "AAAAAAGH9D5CRNQRrA8="
 									},
 									"font": "Arial;13;0",
-									"left": 56,
+									"left": 40,
 									"top": 248,
 									"width": 65.61181640625,
 									"height": 25,
@@ -694,7 +694,7 @@
 													"top": 212,
 													"width": 118,
 													"height": 13,
-													"text": ":ApplyInfoStorage"
+													"text": ":ApplyInfoManager"
 												},
 												{
 													"_type": "LabelView",
@@ -2076,13 +2076,13 @@
 												"$ref": "AAAAAAGH9SKMW0jjW6s="
 											},
 											"font": "Arial;13;0",
-											"left": 415.399169921875,
+											"left": 415.406005859375,
 											"top": 239,
-											"width": 110.20166015625,
+											"width": 140.18798828125,
 											"height": 13,
-											"alpha": 0,
-											"distance": 63,
-											"text": "1.1.1 : ~ApplyInfo()"
+											"alpha": -0.012819808829515418,
+											"distance": 78.00640999302557,
+											"text": "1.1.1 : DeleteApplyInfo()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -2204,7 +2204,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9D5CRNQQLgk="
 							},
-							"name": "~ApplyInfo()",
+							"name": "DeleteApplyInfo()",
 							"source": {
 								"$ref": "AAAAAAGH9O0oRPLW/FY="
 							},
@@ -2248,7 +2248,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9D5CRNQQLgk="
 							},
-							"name": ":ApplyInfoStorage",
+							"name": ":ApplyInfoManager",
 							"stereotype": " control",
 							"represent": {
 								"$ref": "AAAAAAGH9O0oRPLVK7I="

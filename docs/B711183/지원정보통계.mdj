@@ -915,7 +915,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9PP/PW60ZgI="
 							},
-							"name": "ApplyInfoStats",
+							"name": "지원정보통계",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -936,9 +936,9 @@
 											"font": "Arial;13;0",
 											"left": 24.72998046875,
 											"top": 5,
-											"width": 84.8271484375,
+											"width": 79,
 											"height": 13,
-											"text": "ApplyInfoStats"
+											"text": "지원정보통계"
 										},
 										{
 											"_type": "LabelView",
@@ -1226,7 +1226,7 @@
 													"top": 260,
 													"width": 121.33544921875,
 													"height": 13,
-													"text": "ApplyInfoStats"
+													"text": ":ApplyInfoStats"
 												},
 												{
 													"_type": "LabelView",
@@ -1326,7 +1326,7 @@
 													"top": 348,
 													"width": 118,
 													"height": 13,
-													"text": "ApplyInfo"
+													"text": ":ApplyInfo"
 												},
 												{
 													"_type": "LabelView",
@@ -2354,7 +2354,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9PP/PW60ZgI="
 							},
-							"name": "ApplyInfoStats",
+							"name": ":ApplyInfoStats",
 							"stereotype": "control",
 							"represent": {
 								"$ref": "AAAAAAGH9PeRWG+7DLo="
@@ -2367,7 +2367,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGH9PP/PW60ZgI="
 							},
-							"name": "ApplyInfo",
+							"name": ":ApplyInfo",
 							"stereotype": "entity",
 							"represent": {
 								"$ref": "AAAAAAGH9PgwpW/e8Gs="
